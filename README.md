@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React on OpenBootcamp**
 
-- 📄 Know about my experiences [github.io/lucasestebanlps/index.html](github.io/lucasestebanlps/index.html)
+- 📄 Know about my experiences [https://lucasestebanlps.github.io/index.html](https://lucasestebanlps.github.io/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
