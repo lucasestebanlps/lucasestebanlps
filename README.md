@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas!</h1>
 <h3 align="center">A passionate about technology and design. Front-end student from Argentina</h3>
 
-- 🌱 I’m currently learning **React on OpenBootcamp**
+- 🌱 I’m currently learning **Java on Universidad de Jujuy and UX design in Codo a Codo**
 
 - 📄 Know about my experiences [https://lucasestebanlps.github.io/index.html](https://lucasestebanlps.github.io/index.html)
 
