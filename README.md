@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas!</h1>
 <h3 align="center">A passionate about technology and design. Front-end student from Argentina</h3>
 
-- 🌱 I’m currently learning **Java on Universidad de Jujuy and UX design in Codo a Codo**
+- 🌱 I’m currently learning **Flutter**
 
-- 📄 Know about my experiences [https://lucasestebanlps.github.io/index.html](https://lucasestebanlps.github.io/index.html)
+- 📄 Know about my experiences [https://lucasestebanlps.github.io/index.html](https://lucasestebanlps.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
