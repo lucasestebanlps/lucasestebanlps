@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas!</h1>
 <h3 align="center">A passionate about technology and design. Front-end student from Argentina</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I am currently the developer of AppliciAMOci, an application for Lecce (municipality in Italy) in which, together with the Emanuel Foundation, we focus on providing resources to the people who need them most.
 
-- 📄 Know about my experiences [https://lucasestebanlps.github.io/index.html](https://lucasestebanlps.github.io)
+- ⭐ At ApplichiAMOci I am the only developer at the moment and I am working with Flutter, Dart and Firebase. 
+
+- 📄 Know more about my experiences [https://lucasestebanlps.github.io/index.html](https://lucasestebanlps.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
