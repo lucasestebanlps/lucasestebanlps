@@ -1,20 +1,46 @@
 <h1 align="center">Hi 👋, I'm Lucas!</h1>
-<h3 align="center">A passionate about technology and design. Front-end student from Argentina</h3>
+<h3 align="center">Flutter & Mobile App Developer based in Copenhagen 🇩🇰</h3>
 
-- 🌱 I am currently the developer of AppliciAMOci, an application for Lecce (municipality in Italy) in which, together with the Emanuel Foundation, we focus on providing resources to the people who need them most.
+<p align="center">I build production-ready mobile apps using Flutter, Dart, and Firebase. With a background in design and a strong focus on user experience, I develop scalable, intuitive, and visually clean applications for real-world use.</p>
 
-- ⭐ At ApplichiAMOci I am the only developer at the moment and I am working with Flutter, Dart and Firebase. 
+---
 
-- 📄 Know more about my experiences [https://lucasestebanlps.github.io/index.html](https://lucasestebanlps.github.io)
+### 🚀 Apps in Production
 
-<h3 align="left">Connect with me:</h3>
+- ✅ **Applichiamoci** – A social services app developed for the city of Lecce (Italy) in collaboration with Fondazione Emmanuel. [View on Play Store](https://play.google.com/store/apps/details?id=com.fonzadione_emmanuel.applichiamoc)  
+- ✅ **Events, l'app degli eventi** – An event discovery app designed to help users find and attend events across Italy. Includes interactive maps, filters, QR ticketing, and real-time updates.  
+- ✅ **EventzWay** – An organizer-facing companion app for managing events, scanning tickets, and controlling access, integrated with Firebase and Firestore for live operations.
+
+> 📩 **Interested? I can share private links to the stores or demo videos upon request.**
+
+---
+
+### 🧰 Tech Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/lucasestebanlps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasestebanlps" height="30" width="40" /></a>
-<a href="https://fb.com/lucasestebanlps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucasestebanlps" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lucasestebanlps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lucasestebanlps" height="30" width="40" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/></a>
+  <a href="https://figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasestebanlps&show_icons=true&locale=en&layout=compact" alt="lucasestebanlps" /></p>
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/lucasestebanlps" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a>
+  <a href="https://fb.com/lucasestebanlps" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/></a>
+  <a href="https://www.youtube.com/c/lucasestebanlps" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasestebanlps&show_icons=true&locale=en&layout=compact" alt="lucasestebanlps" />
+</p>
